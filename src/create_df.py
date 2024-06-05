@@ -3,8 +3,7 @@ from pathlib import Path
 from tqdm.notebook import tqdm
 import numpy as np
 import pandas as pd
-import mne 
-from scipy import stats as stats
+import mne
 
 ## make dictionary of the epochs
 print("making dictionary of the epochs ...")
